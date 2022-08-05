@@ -10,7 +10,7 @@ I find below steps work fine for me.
 8. sudo apt-get install libelf-dev
 10. sudo apt install dkms
 11. sudo rmmod r8188eu.ko 
-12. git https://github.com/drygdryg/rtl8188eus (This works for me 😂)
+12. git clone https://github.com/sajeeds4/rtl8188eu_updated.git
 13. cd rtl8188eus
 14. sudo -i
 15. echo 'blacklist r8188eu'|sudo tee -a '/etc/modprobe.d/realtek.conf'
@@ -92,5 +92,3 @@ Alfa Networks - https://www.alfa.com.tw<br>
 aircrack-ng.  - https://www.aircrack-ng.org<br>
 <br>
 And all those who may be using or contributing to it of anykind. Thanks!<br>
-# rtl8188eu_updated
-# rtl8188eu_updated
