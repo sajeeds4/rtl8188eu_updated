@@ -1,3 +1,4 @@
+Updated drivers for TP Link v2 3
 I find below steps work fine for me.
 
 1. sudo apt update
