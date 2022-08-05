@@ -1,0 +1,1 @@
+cmd_/home/s3z/s/rtl8188eus_new/8188eu.ko := ld -r -m elf_x86_64 --build-id=sha1  -T arch/x86/module.lds -o /home/s3z/s/rtl8188eus_new/8188eu.ko /home/s3z/s/rtl8188eus_new/8188eu.o /home/s3z/s/rtl8188eus_new/8188eu.mod.o;  true
